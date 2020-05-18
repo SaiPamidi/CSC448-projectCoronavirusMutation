@@ -1,0 +1,7 @@
+Accession,Release_Date,Species,Length,Sequence_Type,Nuc_Completeness,Genotype,Segment,Geo_Location,Host,Isolation_Source,Collection_Date
+HM130806,2010-10-13T00:00:00Z,Human coronavirus 229E,379,GenBank,partial,,,China,Homo sapiens,,2007-10-23
+HM130807,2010-10-13T00:00:00Z,Human coronavirus 229E,379,GenBank,partial,,,China,Homo sapiens,,2007-11-17
+HM130809,2010-10-13T00:00:00Z,Human coronavirus 229E,379,GenBank,partial,,,China,Homo sapiens,,2009-01-06
+GU068546,2010-07-24T00:00:00Z,Human coronavirus 229E,1641,GenBank,partial,,,China:Shanghai,Homo sapiens,,2007-12-17
+GU068547,2010-07-24T00:00:00Z,Human coronavirus 229E,1643,GenBank,partial,,,China:Shanghai,Homo sapiens,,2008-01-17
+GU068549,2010-07-24T00:00:00Z,Human coronavirus 229E,1642,GenBank,partial,,,China:Shanghai,Homo sapiens,,2008-02-21

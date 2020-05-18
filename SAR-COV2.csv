@@ -1,0 +1,7 @@
+Accession,Release_Date,Species,Length,Sequence_Type,Nuc_Completeness,Genotype,Segment,Geo_Location,Host,Isolation_Source,Collection_Date
+MT079851,2020-05-15T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,30018,GenBank,complete,,,China,Homo sapiens,,2020-01-22
+MT476385,2020-05-15T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29902,GenBank,complete,,,Bangladesh,Homo sapiens,,2020-04-18
+MT467263,2020-05-14T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,GenBank,complete,,,India: Dhansura,Homo sapiens,,2020-05-04
+MT415376,2020-04-30T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,3822,GenBank,partial,,,China,Homo sapiens,,2020-02-15
+MT396241,2020-04-28T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29900,GenBank,complete,,,China,,,2020-03-06
+LR757997,2020-02-01T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29388,GenBank,partial,,,China:Wuhan,Homo sapiens,,2019-12-31

@@ -1,0 +1,7 @@
+Accession,Release_Date,Species,Length,Sequence_Type,Nuc_Completeness,Genotype,Geo_Location,Host,Isolation_Source,Collection_Date
+KF514389,2013-08-17T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29687,GenBank,complete,,"USA: Nashville, TN",,,2009-05-19
+KF514395,2013-08-17T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29687,GenBank,complete,,"USA: Nashville, TN",,,2009-03-18
+FJ882926,2009-12-13T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29675,GenBank,complete,,USA: Tennessee,,,2007-09-22
+FJ882928,2009-12-13T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29687,GenBank,complete,,USA: Tennessee,,,2007-08-28
+FJ882931,2009-12-13T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29646,GenBank,complete,,USA: Tennessee,,,2008-03-28
+FJ882954,2009-12-13T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29636,GenBank,complete,,USA: Tennessee,,,2008-08-06
